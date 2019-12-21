@@ -1,0 +1,30 @@
+{
+  "name": "trissence",
+  "version": "1.0.0",
+  "description": "Gatsby site for trissence.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trissence/trissence.git"
+  },
+  "keywords": [
+    "gatsbyjs",
+    "reactjs",
+    "react",
+    "js"
+  ],
+  "author": "Heman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trissence/trissence/issues"
+  },
+  "homepage": "https://github.com/trissence/trissence#readme",
+  "dependencies": {
+    "gatsby": "^2.18.16",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
